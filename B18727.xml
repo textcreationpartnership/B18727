@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Thomas Earl of Limerick, lately call'd Colonel Thomas Dongan.</title>
+            <author>Limerick, Thomas Dongan, Earl of, 1634-1715.</author>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18727</idno><idno type="EEBO-CITATION">99894117</idno>
+  <idno type="VID">188575</idno>
+  <idno type="EEBO-PROQUEST">2240938565</idno>
+  
+            <idno type="STC">Wing C1184A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[36]</idno>
+            <idno type="STC">ESTC T20299</idno>
+            <idno type="PROQUEST">ocm99894117</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99894117e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188575)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Thomas Earl of Limerick, lately call'd Colonel Thomas Dongan.</title>
+                  <author>Limerick, Thomas Dongan, Earl of, 1634-1715.</author>
+               </titleStmt>
+               <extent>4p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1701?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Wing CD-ROM, 1996 give date 1699.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Limerick, Thomas Dongan, --  Earl of, 1634-1715. --  Trials, litigation, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188575:1"/>
+            <head>The <hi>CASE</hi> of <hi>THOMAS</hi> Earl of <hi>Limerick,</hi> lately call'd Colonel <hi>Thomas Dongan.</hi>
+            </head>
+            <p n="1">1. SIR <hi>Walter Dongan</hi> Baronet, Grandfather of the <hi>now Earl</hi> of <hi>Limerick,</hi> being seiz'd of se<g ref="char:EOLhyphen"/>veral Mannors, Lands, <hi>&amp;c.</hi> in <hi>Ireland,</hi> by descent from his Ancestors, and of other Mannors, Lands, <hi>&amp;c.</hi> there devis'd to him in 1622. by his Brother <hi>William Dongan</hi> Recorder of <hi>Dublin,</hi> died so seis'd in 1627. and the Premisses descended to his eldest Son Sir <hi>John Dongan,</hi> Father of the now Earl.</p>
+            <p n="2">2. In <hi>July</hi> 1642. Sir <hi>John Dongan</hi> having eight Sons, <hi>viz. Walter, William, Edward, Robert, Michael, Jerome, Thomas</hi> and <hi>James,</hi> made his Will, and entail'd both Estates upon all his Sons successively, except a small part in the <hi>Queen's County,</hi> which he entail'd upon the second Son of his Family for the time being, and died in 1650.</p>
+            <p n="3">3. 1652. Sir <hi>John Dongan</hi> and his two elder Sons, having serv'd in the King's Army during the Civil War in <hi>England,</hi> their Estate was sequestred, and kept from the Family till the Resto<g ref="char:EOLhyphen"/>ration of K. <hi>Charles</hi> the Second.</p>
+            <p n="4">4. 1655. Sir <hi>Walter Dongan,</hi> eldest Son of Sir <hi>John Dongan,</hi> dy'd without Issue.</p>
+            <p n="5">5. 1663. Sir <hi>William Dongan</hi> the second Son, afterward created <hi>Viscount Dongan</hi> of <hi>Clane,</hi> together with his Father and elder Brother, were decreed <hi>Innocent</hi> by the Court of <hi>Claims</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and the Viscount was restor'd to both the Estates.</p>
+            <p n="6">6. All the other Sons of Sir <hi>John Dongan,</hi> except <hi>William</hi> and <hi>Thomas,</hi> dying without Issue, <hi>Thomas</hi> as second Son of the Family, enjoy'd the Estate in the <hi>Queen's County</hi> according to his Fa<g ref="char:EOLhyphen"/>ther's Will, about five and twenty years before the last War in <hi>Ireland.</hi>
+            </p>
+            <p n="7">7. In <hi>July</hi> 1676. <hi>William</hi> Viscount <hi>Dongan</hi> designing to go to <hi>Spain,</hi> made a Settlement of his Estate to the use of himself for Life, the Remainder to his eldest Son, and every other of his Sons in Tail Male, the Remainder to his Brother <hi>Thomas</hi> (the now Earl) in Tail Male, with di<g ref="char:EOLhyphen"/>vers Remainders over: But this Settlement being made in the Country, was, for want of good Advice, ill drawn, and worse writ, yet sufficient in Law to answer the Ends intended by it.</p>
+            <p n="8">8. 1685. <hi>William</hi> Viscount <hi>Dongan</hi> was created Earl of <hi>Limerick,</hi> and the same Title was limited in Remainder to <hi>Thomas</hi> (then call'd <hi>Colonel Thomas Dongan</hi>) and his Heirs Male.</p>
+            <p n="9">9. 1686. <hi>William</hi> Earl of <hi>Limerick</hi> having levy'd some Fines of his Estate, in order to make a Joynture to his Wife, and borrow Money, borrow'd 7500 <hi>l.</hi> of his Wife's Mother <hi>Donna Ma<g ref="char:EOLhyphen"/>riana Chambers,</hi> the Widow of Sir <hi>Richard Chambers,</hi> and granted a Rent-charge of 450 <hi>l. per An<g ref="char:EOLhyphen"/>num</hi> to the Lords <hi>Kingsland</hi> and <hi>Trimblestown</hi> and their Heirs, in trust for her; but redeem<g ref="char:EOLhyphen"/>able upon payment of 7500 <hi>l.</hi> and all Arroare of the Rent at any time after.</p>
+            <p>This is a way of Mortgaging frequently practis'd in <hi>Ireland,</hi> to avoid entring upon the mort<g ref="char:EOLhyphen"/>gaged Estate, and being accountable for the Profits, because the Courts of Equity there never foreclose a Mortgager of the Equity of Redemption.</p>
+            <p n="10">10. 1688. At the time of the Revolution <hi>William</hi> Earl of <hi>Limerick</hi> liv'd near <hi>Dublin</hi> in <hi>Ireland,</hi> and had a Regiment of Dragoons; but being an old paralytical Man, was uncapable of Action. His Quality oblig'd him to attend the Person of the late K. <hi>James</hi> when he arriv'd there, and to be of his Council, his present Majesty not having then any Forces in that Kingdom to resort to for protection: But it is notoriously known that <hi>William</hi> Earl of <hi>Limerick</hi> oppos'd in Council all violent proceedings against the Protestants.</p>
+            <p n="11">11. <hi>William</hi> Earl of <hi>Limerick</hi> laid down his Commission of Colonel of Dragoons before the 10th day of <hi>April</hi> 1689. in obedience to their Majesties Proclamation, which promis'd Indemnity and injoyment of their Estates to all such who laid down their Arms before that time. After this he never took any Commission, except one for the Government of <hi>Munster,</hi> which he accepted at the earnest Request of the Protestants, whose Persons, Estates, and Churches he preserv'd from all manner of Violence, as many eminent Protestants have certified under their Hands.</p>
+            <p n="12">12. After the Battle at the <hi>Boyn</hi> (wherein he was not engaged) <hi>William</hi> Earl of <hi>Limerick</hi> left <hi>Ireland;</hi> and having no opportunity to go elsewhere, went to <hi>Bretagne</hi> in <hi>France.</hi>
+            </p>
+            <p n="13">13. After the Reduction of <hi>Ireland, William</hi> Earl of <hi>Limerick</hi> was Outlaw'd upon 13 several In<g ref="char:EOLhyphen"/>dictments for High-Treason against K. <hi>William</hi> and Q. <hi>Mary</hi> (generally, without expressing any particular Act of Treason) alleg'd to be committed on the 13th day of <hi>February</hi> 1688. which was the very day their Majesties were declared <hi>King</hi> and <hi>Queen;</hi> when it was morally impossible for him, who was then in <hi>Ireland,</hi> to have notice of their accession to the Crown, and consequently to be guilty of any Treason against them.</p>
+            <p n="14">14. 1693. <hi>Godart</hi> Earl of <hi>Athlone</hi> obtain'd a Warrant for a Grant of the Earl of <hi>Limerick</hi>'s Estate; and the <hi>now Earl</hi> of <hi>Limerick</hi> having notice of it, petition'd the Queen for time to make out his Title before the Grant pass'd. In which interval, by the permission of the Secretary of State, he sent to his Brother in <hi>France</hi> for an account of the Settlements of the Estate: which by reason of his long absence from <hi>England,</hi> and the little expectation he had of coming to the E<g ref="char:EOLhyphen"/>state, had slipt out of his memory.</p>
+            <p n="15">15. His Brother sent him over the Deed of Settlement made in 1676, and mention'd above in Number (7) conceiving it sufficient to preserve his Right. The now Earl shewed it to the Se<g ref="char:EOLhyphen"/>cretary of State, and several Council at Law, who all found fault with the unskilful drawing and bad writing, but thought it valid in Law: and one of the Council took a Copy of it, lest it should have been lost at Sea in the passage to <hi>Ireland.</hi>
+            </p>
+            <pb n="2" facs="tcp:188575:2"/>
+            <p n="16">16. This Deed was, by the Queen's Order, sent into <hi>Ireland</hi> to be produc'd before the <hi>Lords Justices.</hi> They directed it to be deliver'd to the <hi>Sollicitor General,</hi> who was of Council with the Earl of <hi>Athlone.</hi>
+            </p>
+            <p n="17">17. The Sollicitor General, about three days before the time appointed for producing this Deed to the <hi>Lords Justices,</hi> pronounc'd it a <hi>forg'd Deed,</hi> and prefer'd an Information against the now Earl of <hi>Limcrick,</hi> his Council, Attorny and Agents, for publishing this Deed, which deterr'd all Persons from appearing on the <hi>now Earl</hi>'s part, and the Lords Justices were therefore induc'd to believe it a forg'd Deed.</p>
+            <p n="18">18. One of the Defendants to the Information swore in his Answer, that he brought this Deed out of <hi>France</hi> in the same condition it was when deliver'd to the Soll. General; and if the late or present Earl of <hi>Limerick</hi> could have been guilty of so dishonourable a practice, they could not want assistance to have had a Deed well drawn, well writ, and well attested. This Deed is at<g ref="char:EOLhyphen"/>tested by six Witnesses, some of whom are now living in <hi>Ireland,</hi> and Persons of Estate and Repu<g ref="char:EOLhyphen"/>tation.</p>
+            <p n="19">19. By this management the Deed was damn'd without any Trial, and order'd to be hung up in the <hi>Exchequer</hi> in <hi>Ireland,</hi> where it continues; and the Grant of the Estate to the Earl of <hi>Ath<g ref="char:EOLhyphen"/>lone,</hi> pass'd without opposition, wherein the Lands in the <hi>Queen's County</hi> are compris'd, tho the Lords Justices upon proof of their being so long enjoy'd by the <hi>now Earl</hi> as second Son, had order'd the Commissioners of the Revenues to restore 'em to him.</p>
+            <p n="20">20. 1694. The Earl of <hi>Athlone</hi>'s Agents being apprehensive of the Defects in the Outlawrys, procur'd an Act of Parliament in <hi>Ireland</hi> for confirming the late Earl of <hi>Limerick</hi>'s Attainder, and the Grant of his Estate to the Earl of <hi>Athlone,</hi> notwithstanding any Reversal of the Attain<g ref="char:EOLhyphen"/>der, or any Charter of Pardon or Restitution.</p>
+            <p n="21">21. 1693. Before this Act pass'd, the Lady <hi>Chambers</hi> who had the Mortgage for 7500 <hi>l.</hi> upon this Estate, came into <hi>England</hi> to look after it; and the <hi>now Earl</hi> of <hi>Limerick</hi> looking upon himself next intituled to the Estate after the Death of his Brother, bought in this Debt and Rent-charge by which it was secur'd, for a Sum of ready Money, and an Annuity for the Life of the Lady <hi>Chambers.</hi>
+            </p>
+            <p n="22">22. The E. of <hi>Athlone</hi>'s Agents at first endeavour'd to impeach this Mortgage of Forgery; but it being attested by many Persons of Honour and Quality still living, they drop'd that Design, and fell upon the following Stratagem.</p>
+            <p n="23">23. They caus'd an Inquisition to be taken at <hi>Dublin,</hi> which found the Lady <hi>Chambers</hi> to be an Alien, and then seis'd the Rent-charge granted for the Security of her 7500 <hi>l.</hi> into the King's Hands, as a Real Estate purchased in trust for an Alien, which the King was intituled to by his Prerogative, and the Earl of <hi>Athlone</hi> obtain'd a Grant of it from the King in 1695.</p>
+            <p n="24">24. This Grant of the Rent-charge to the Lords <hi>Kingsland</hi> and <hi>Trimblestown,</hi> was never in<g ref="char:EOLhyphen"/>tended to be a Purchase, but only a Mortgage, as appears by the Deed it self; and Money lent upon a Mortgage in Fee is but Personal Estate, which an Alien may acquire; and if the late Earl of <hi>Limerick</hi> had repaid the Money before the Inquisition taken, the King could have got nothing by an Inquisition taken afterwards.</p>
+            <p n="25">25. The Lady <hi>Chambers</hi> was an Alien Friend, <hi>viz.</hi> a Spanish Woman, and the Widow of an English man, Sir <hi>Richard Chambers,</hi> and ought not to have been treated as an Alien Enemy.</p>
+            <p n="26">26. Beside the particular hardship to the <hi>now Earl</hi> of <hi>Limerick,</hi> this Precedent may be of ill con<g ref="char:EOLhyphen"/>sequence to the English in <hi>Spain,</hi> where they frequently lend Money upon Mortgage of Houses and Lands, and yet the English not naturaliz'd can no more purchase Estates in <hi>Spain,</hi> than Spaniards can purchase in <hi>England.</hi>
+            </p>
+            <p n="27">27. But if in strictness of Law this Rent-charge mortgag'd in trust for an Alien may be call'd a Purchase, the King could not be intituled to it, nor any Profits of it, till an Inquisition taken, and his Title was found of Record, and the Lady <hi>Chambers</hi> and her Grantee are intituled to all the Arrears incurr'd before; yet upon a Bill exhibited by the Earl of <hi>Athlone</hi> in the Court of Chan<g ref="char:EOLhyphen"/>cery of <hi>Ireland,</hi> an Injunction was granted to stay all Proceedings upon a distress for the Arrears, and is continued to this day.</p>
+            <p n="28">28. This usage put the now Earl of <hi>Limerick</hi> upon recollecting the antient Settlements of the Estate, and brought to his remembrance the Entail made by his Father's Will, which he com<g ref="char:EOLhyphen"/>municated to the Earl of <hi>Athlone,</hi> and by his Consent petition'd the King that his Title might be examin'd by the Lord Chancellor of <hi>Ireland,</hi> or the Attorney General here; the Earl of <hi>Ath<g ref="char:EOLhyphen"/>lone</hi> telling the now Earl of <hi>Limerick,</hi> that his Majesty had promis'd to make the Earl of <hi>Athlone</hi> amends, if the now Earl of <hi>Limerick</hi> appear'd to have a Title to the Estate.</p>
+            <p n="29">29. The King referr'd it to the Lords Justices of <hi>Ireland;</hi> but this Reference was stifled till the Earl of <hi>Athlone</hi> went into <hi>Ireland,</hi> sold part of the Estate, and left that Kingdom; but the Purchasers had notice of the Petitioner's Claim from the Earl of <hi>Athlone,</hi> and otherwise.</p>
+            <p n="30">30. Then, and not sooner, the Reference was produc'd, and the Lords Justices referr'd the Case over to the Attorney and Sollicitor General of <hi>Ireland,</hi> who were both of Council with the Earl of <hi>Athlone,</hi> and made their Report to the effect following.</p>
+            <p>
+               <hi>First,</hi> That Sir <hi>Walter Dongan,</hi> Grandfather of the now Earl of <hi>Limerick,</hi> in 1615. settled the antient Estate of the Family on Sir <hi>John Dongan,</hi> and the Heirs Male of his Body, with divers Remainders over; which disabled Sir <hi>John Dongan</hi> to make any Settlement by his Will in 1642. and that Earl <hi>William</hi> levied several Fines of the Estate, and made himself Tenant in Fee.</p>
+            <pb n="3" facs="tcp:188575:3"/>
+            <p>
+               <hi>Secondly,</hi> That Sir <hi>John Dongan</hi>'s Will is questionable, and to be suspected, because not prov'd till above twenty Years after the Date of it, <hi>viz.</hi> in 1663. and was then prov'd only in com<g ref="char:EOLhyphen"/>mon Form by the Executor upon his Oath <hi>de Credulitate,</hi> and by one <hi>Patrick Fitz-Gerald,</hi> and not by any one of the four subscribing Witnesses to the Will; and Earl <hi>William</hi> took no notice of this Will in his Petition to the Court of Claims.</p>
+            <p>
+               <hi>Thirdly,</hi> That the now Earl of <hi>Limerick</hi> can have no right to any Estate of his Ancestors, because he was never decreed <hi>Innocent</hi> by the Court of Claims, tho his Father and two elder Brothers were decreed so, and that the <hi>Acts</hi> of <hi>Settlement</hi> make all persons Nocent who were not decreed Innocent.</p>
+            <p>To the first of these the now Earl of <hi>Limerick</hi> answers:</p>
+            <p>No such Deed of Settlement made in 1615. has been produc'd, nor any Footstep thereof ap<g ref="char:EOLhyphen"/>pears, otherwise than by an Office found in 1627. and some mention made of it by <hi>William</hi> Earl of <hi>Limerick</hi> in his Petition to the Court of Claims, which are no binding Evidence; nor was that Deed produced to the Court of Claims, as appears by their Decree; nor was there any occa<g ref="char:EOLhyphen"/>sion to prove any thing more than the Seisin of his Father, and that he was <hi>Innocent.</hi> But if such Settlement were made in 1615. and were now in being, there might appear Limitations in it to the 1st, 2d, 3d, <hi>&amp;c.</hi> Sons of Sir <hi>John Dongan,</hi> which would be of the same effect as the Will of Sir <hi>John Dongan:</hi> or there might appear a power of Revocation reserv'd to Sir <hi>John Dongan;</hi> and so it ought reasonably to be presum'd, and that he executed that Power, since he took upon him to make a Will of the Estate; but in what manner soever that Settlement was made, it cannot comprehend the Estate of <hi>William Dongan</hi> Recorder of <hi>Dublin,</hi> which was not devised to Sir <hi>Wal<g ref="char:EOLhyphen"/>ter Dongan</hi> the Grandfather till 1622. and seven years after the pretended Settlement bears date: and therefore Sir <hi>John Dongan</hi> had power to make a Will of that Estate. The Fines levied by Earl <hi>William</hi> could bind his own Issue only, and not those who claim in Remainder; and all was resettled by E. <hi>William</hi> in 1676. by that Deed which was condemned without Trial.</p>
+            <p>To the second the Earl of <hi>Limerick</hi> answers:</p>
+            <p>Sir <hi>John Dongan</hi> liv'd 8 years after the date of the Will, <hi>viz.</hi> till 1650. and then there was no Court for probate of Wills settled in <hi>Ireland;</hi> and the whole Estate being under Sequestration for Delinquency in 1652. it could be no advantage to prove this Will, but might have been pre<g ref="char:EOLhyphen"/>judicial to produce it; but as soon as Sir <hi>John Dongan</hi> and his two elder Sons were decreed <hi>Inno<g ref="char:EOLhyphen"/>cent</hi> by the Court of Claims, it was prov'd in 1663. and has remain'd register'd in <hi>Dublin</hi> ever since.</p>
+            <p>It was prov'd in Common Form only, because no body disputed the truth of it, nor was dis<g ref="char:EOLhyphen"/>inherited by it, and in such cases Wills are seldom prov'd otherwise than in Common Form; neither is there a necessity of proving a Will concerning Lands in any Court, unless it be contro<g ref="char:EOLhyphen"/>verted. The four subscribing witnesses might have per<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rd in the war, o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> died natural Deat<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, or have left that Kingdom in 21 years time; but <hi>Patrick Fitz-Gerald,</hi> who was sworn to the truth of it, was Clerk to Sir <hi>John Dongan,</hi> and well acquainted with his and the Witnesses Hands writing, and might see it executed, tho he did not sign as a Witness.</p>
+            <p>The late Earl of <hi>Limerick</hi> did not mention this Will in his Petition to the Court of Claims, be<g ref="char:EOLhyphen"/>cause it would have appear'd by that Will that Sir <hi>John Dongan</hi> was seised in Fee; and if Sir <hi>John Dongan,</hi> or his eldest Son <hi>Walter,</hi> had not been decreed <hi>Innocent,</hi> the Estate would have been forfeited, tho E. <hi>William</hi> had been decreed <hi>Innocent.</hi> But after the Decree of <hi>Innocency,</hi> E. <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> own'd the Will, and permitted his Mother to enjoy the Joynture settled by it upon her, which he before refus'd to allow her, and also suffer'd the second Son of the Family for the time being, to enjoy the Lands in the Queen's County, to which they had no other pretence than by that Will.</p>
+            <p>There are several living Witnesses who were acquainted with the Hand-writing of Sir <hi>John Dongan,</hi> and have sworn this Will to be sign'd by him, as they verily believe.</p>
+            <p>Many more Arguments can be urg'd to prove the truth of this Will; but its being registred in <hi>Dublin</hi> 36 years ago, sufficiently justifies it from all suspicion of Forgery upon any account whatso<g ref="char:EOLhyphen"/>ever.</p>
+            <p>To the third the Earl of <hi>Limerick</hi> answers:</p>
+            <p>That he was not a year old when the <hi>Irish</hi> Rebellion broke out in 1641. and therefore could not be guilty of it. If the <hi>Acts</hi> of <hi>Settlement</hi> in <hi>Ireland</hi> make or suppose all persons <hi>Nocent</hi> who were not decreed <hi>Innocent,</hi> those Acts must have a reasonable Interpretation, and be understood to ex<g ref="char:EOLhyphen"/>tend only to such persons as were <hi>capable</hi> of being guilty, and not to impotent Children, who could not <hi>speak,</hi> much less <hi>act</hi> Treason.</p>
+            <p>The now Earl of <hi>Limerick</hi>'s Title is by a Will subsequent to the Rebellion in 1641. and made by a Person who was decreed <hi>Innocent,</hi> whose Estate was therefore never vested in the Crown, or at least wholly devested out of the Crown by that Decree; and he being under no Incapacity to take by that Will, there was no need of a Decree for his Innocency: and so it has been adjudg'd in the Kings Bench in <hi>Ireland,</hi> upon a special Verdict found in the like case of Sir <hi>Stephen Rice.</hi>
+            </p>
+            <p n="31">31. Since this Report <hi>William</hi> Earl of <hi>Limerick</hi> is dead, and the Honour and Right to the Estate are vested in <hi>Thomas</hi> now Earl of <hi>Limerick.</hi>
+            </p>
+            <p n="32">32. The now Earl does not pretend to justify any Actions of his late Brother against His Ma<g ref="char:EOLhyphen"/>jesty K. <hi>William,</hi> but hopes the constant Loyalty of his Family (and even of E. <hi>William</hi> himself <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore the last War) to the Crown of <hi>England,</hi> in the Service whereof many of 'em have been
+<pb n="4" facs="tcp:188575:4"/>kill'd, may atone for one Offence, which E. <hi>William</hi> under the unhappy Circumstances he was in<g ref="char:EOLhyphen"/>volv'd in at the beginning of the late Revolution, could scarce possibly avoid; or at least that the present Earl, who was in no wise accessary to it, and has always been <hi>faithful,</hi> and in some measure <hi>serviceable</hi> to this Nation, shall not bear the Punishment of his Brother's Crimes, but that the Merits of the Earl of <hi>Athlone</hi> may be rewarded otherwise than at the price of the now Earl of <hi>Limerick</hi>'s Birthright.</p>
+            <p n="33">33. The now Earl does as little delight to recount his own Services, and believes all he has done, or can do, to be his Duty; but hopes it will not be esteem'd any Vanity or Ostentation in him to mention upon this occasion what he has acted and suffer'd for the Crown and Nation of <hi>England.</hi>
+            </p>
+            <p n="34">34. He was bred a Souldier, and arriv'd to be Colonel of the <hi>Irish</hi> Regiment in <hi>France,</hi> worth to him above 5000 <hi>l. per Ann.</hi>
+            </p>
+            <p n="35">35. 1677/8. In pursuance of a Vote of Parliament for recalling the <hi>English</hi> Subjects then in the <hi>French</hi> King's Service, he quitted that Honourable and Advantagious Post, and rejected the Temp<g ref="char:EOLhyphen"/>tation of greater Preferments then offer'd him, if he would continue there. For which reason the <hi>French</hi> King commanded him to leave <hi>France</hi> in 48 hours, and refus'd to pay him a Debt of 65000 Livres then due to him for Recruits and Arrears upon an Account stated with the Intendant of <hi>Nancy.</hi> This is well known to the Earl of <hi>Mountague</hi> then Ambassador in <hi>France.</hi>
+            </p>
+            <p n="36">36. At his return into <hi>England</hi> K. <hi>Charles</hi> II. nominated him to be a General Officer of the <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Army then design'd for <hi>Flanders,</hi> and settled upon him a Pension of 500 <hi>l. per Ann.</hi> for his Life, in consideration of his Losses in <hi>France,</hi> which has been stopt ever since the Revolution.</p>
+            <p n="37">37. 1678. He was appointed Lieutenant Governour of <hi>Tangier,</hi> and remov'd from thence in 1680. and in 1682 was sent Governour of <hi>New York</hi> in <hi>America.</hi>
+            </p>
+            <p>Soon after his Arrival there he brought five Nations of warlike <hi>Indians,</hi> who had been seduc'd by the <hi>French</hi> of <hi>Canada,</hi> and us'd to burn and destroy the Plantations of <hi>Virginia</hi> and <hi>Maryland,</hi> to make peace with, and become Subjects of the Crown of <hi>England,</hi> by which means those Co<g ref="char:EOLhyphen"/>lonies are deliver'd from a vast charge they were before at for their Defence, and the adjacent Colonies protected from other <hi>Indians.</hi>
+            </p>
+            <p n="38">38. 1686/7. The <hi>French</hi> of <hi>Canada</hi> being exasperated at those five Nations of <hi>Indians</hi> for en<g ref="char:EOLhyphen"/>tring into the <hi>English</hi> Interest, made war upon 'em with 3000 <hi>French,</hi> and many other <hi>Indians.</hi> The Earl of <hi>Limerick</hi> took those five Nations under his Protection, and notwithstanding many haughty Messages from the <hi>French</hi> Governour of <hi>Canada,</hi> rais'd an Army of <hi>Christians</hi> and <hi>Indians,</hi> who by his directions kill'd many, took 500 Prisoners, and so totally destroy'd all their Corn and Provisions, that they had nothing left to subsist on but what came from <hi>France,</hi> and must have quitted the Country, if the Earl of <hi>Limerick</hi> had been permitted to continue the War one year longer; but upon the <hi>French</hi> King's complaint against him, a Peace was concluded, and the Earl of <hi>Limerick</hi> dismiss'd from that Government.</p>
+            <p n="39">39. This War the Earl of <hi>Limerick</hi> maintain'd above a year and a half at his own charge, by disbursing his own Money, mortgaging his Lands, selling his Plate and Furniture, and giving his Bonds for Provisions and Ammunition to the value of many thousand Pounds, whereof he never receiv'd more than 2500 <hi>l.</hi> in Tallies, which his present Majesty order'd him, to discharge some Debts that were most pressing upon him. For the truth of this he refers to the Honourable Mr. <hi>Blathwait</hi> then Secretary and Auditor General of the Plantations, and to Mr. <hi>Povey.</hi>
+            </p>
+            <p n="40">40. 1687/8. Before the late happy Revolution he receiv'd Letters (ready to be produc'd) from the late King <hi>James,</hi> and the E. of <hi>S.</hi> then Secretary of State, inviting him home with Assurance of good Imployment here; and from the E. of <hi>Tyrconnel,</hi> offering him the Command of Major General of the Army, and of a Regiment of Dragoons in <hi>Ireland,</hi> all which he refus'd; and after his dismission from his Government, he continu'd at <hi>New-York</hi> and <hi>New-England,</hi> till the year 1691. when he came for this Kingdom, where he has liv'd ever since retir'd, and conformable to the Government.</p>
+            <p>The Earl of <hi>Limerick</hi> casts himself upon the Parliament of <hi>England</hi> for relief, and humbly hopes they will give him such as to their Justice and Wisdom shall seem meet.</p>
+         </div>
+         <div type="text">
+            <head>A Copy of the CERTIFICATE concerning the late Earl of <hi>Limerick</hi>'s Behaviour to the Protestants in the last War in <hi>Ireland.</hi>
+            </head>
+            <p>
+               <hi>WE undernamed Protestant Inhabitants of the City or County of</hi> Limerick, <hi>being highly sensible of the repeated Favours we and many other Protestants in the last War receiv'd at the hands of the Right Honourable the late Earl of</hi> Limerick <hi>during his then Government of the Province of</hi> Munster, <hi>do as well in gratitude for those Favours, as at the request of the Right Honourable the present Earl of</hi> Limerick, <hi>certify that the said late Earl in the time of his Government, was not only very ready to hear, but to redress the Complaints of the Protestants, who continued many of 'em in their Houses and Possessions, when the</hi> Irish <hi>Proprietors under the Colour of Law, and the pretended Act of Repeal, made Attempts by force to turn them out; and likewise that during the continuance of that his Government, by his Countenance we and other Protestants had the free exercise of our Religion, the Churches being preserv'd by his Power for that exercise, when the Popish Clergy, as we have heard, and do verily believe, often much importun'd him to ap<g ref="char:EOLhyphen"/>propriate the same to the Popish Service.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Given under our hands </hi>
+                  <date>this <hi>Eighth Day of</hi> November 1699.</date>
+               </dateline>
+               <signed>Signed by 66 Protestants of Quality and Note.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
